@@ -1,2 +1,2 @@
 # Notes-Computer-Science-
-Visualization, Data transformations, Exploratory data analysis and Modeling
+Visualization,Seaborn, Data transformations, Exploratory data analysis and Modeling
